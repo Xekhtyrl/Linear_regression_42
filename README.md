@@ -88,9 +88,11 @@ python3 precision.py
 * Input required by the program:
 
   * .csv path
+
 Require the training program to be executed before. It will give you a visual graphic with two regression
 line: One red is the result of the training, the blue is the result of the sklearn method to calculate a linear regression.
 The R² coefficent or the coefficent of determination will also be given in the terminal.
+
 ---
 
 ### 🌟 Why This Project Matters
